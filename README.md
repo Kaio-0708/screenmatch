@@ -1,4 +1,4 @@
-# Screenmatch
+# Screenmatch Série
 
 **Screenmatch** é uma aplicação Java desenvolvida com o Spring Boot que permite a busca e análise de informações sobre séries de TV. O projeto demonstra a integração com APIs externas, processamento de dados JSON e a apresentação de informações ao usuário.
 
